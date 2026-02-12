@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS8600: Converting null literal or possible null value to non-nullable type.
+dotnet_diagnostic.CS8600.severity = none
+
+# IDE0210: Convert to top-level statements
+dotnet_diagnostic.IDE0210.severity = none
+
+# CS8602: Dereference of a possibly null reference.
+dotnet_diagnostic.CS8602.severity = none
